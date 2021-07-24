@@ -16,7 +16,7 @@
     align-items: center;
     height: 35%;
     width: auto;
-    background-image: url(/images/Grey\ Gradient\ Background\ Bokeh\ Glam\ Free\ Vector.jpg);
+    background-image: url(https://github.com/joffrey7486/PortFolio.github.io/blob/main/images/Grey%20Gradient%20Background%20Bokeh%20Glam%20Free%20Vector.jpg?raw=true);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -55,12 +55,12 @@ h2{
     position: relative;
     bottom: -16rem;
 }
-.faq{background-image: url(/images/FAQ\ Accordion\ FEM.PNG);}
-.four_card{background-image: url(/images/Four\ card\ feature\ FEM.PNG);}
-.huddle{background-image: url(/images/Huddle\ \ landing\ page.PNG);}
-.social_proof_section{background-image: url(/images/Social\ proof\ section.PNG);}
-.three_column_preview_card{background-image: url(/images/three\ column\ preview\ card.PNG);}
-.single_price_grid{background-image: url(/images/Single\ price\ grid.PNG);}
+.faq{background-image: url(https://github.com/joffrey7486/PortFolio.github.io/blob/main/images/FAQ%20Accordion%20FEM.PNG?raw=true);}
+.four_card{background-image: url(https://github.com/joffrey7486/PortFolio.github.io/blob/main/images/Four%20card%20feature%20FEM.PNG?raw=true);}
+.huddle{background-image: url(https://github.com/joffrey7486/PortFolio.github.io/blob/main/images/Huddle%20%20landing%20page.PNG?raw=true);}
+.social_proof_section{background-image: url(https://github.com/joffrey7486/PortFolio.github.io/blob/main/images/Social%20proof%20section.PNG?raw=true);}
+.three_column_preview_card{background-image: url(https://github.com/joffrey7486/PortFolio.github.io/blob/main/images/three%20column%20preview%20card.PNG?raw=true);}
+.single_price_grid{background-image: url(https://github.com/joffrey7486/PortFolio.github.io/blob/main/images/Single%20price%20grid.PNG?raw=true);}
 
 
 .footer{
