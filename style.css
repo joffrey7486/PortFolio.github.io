@@ -1,0 +1,78 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.main{
+    height: 100vh;
+    width: 100vw;
+    font-family: 'Kufam', sans-serif;
+}
+.header{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    height: 35%;
+    width: auto;
+    background-image: url(https://github.com/joffrey7486/PortFolio.github.io/blob/main/images/Grey%20Gradient%20Background%20Bokeh%20Glam%20Free%20Vector.jpg?raw=true);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    color: #fff;
+}
+h1{
+    font-family: 'Lemonada', cursive;
+    font-size: 3rem;
+    letter-spacing: 0.15rem;
+}
+h2{
+    font-size: 2rem;
+}
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;    
+    width: 100%;
+    min-height: 70%;
+    padding-left: 5rem;
+    padding-right: 5rem;
+}
+.content{
+    height: 250px;
+    width: 400px;
+    background-color: #d4d4d4;
+    margin: 3rem;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.content a:hover{
+    cursor: pointer;
+}
+.content p{
+    position: relative;
+    bottom: -16rem;
+}
+.faq{background-image: url(https://github.com/joffrey7486/PortFolio.github.io/blob/main/images/FAQ%20Accordion%20FEM.PNG?raw=true);}
+.four_card{background-image: url(https://github.com/joffrey7486/PortFolio.github.io/blob/main/images/Four%20card%20feature%20FEM.PNG?raw=true);}
+.huddle{background-image: url(https://github.com/joffrey7486/PortFolio.github.io/blob/main/images/Huddle%20%20landing%20page.PNG?raw=true);}
+.social_proof_section{background-image: url(https://github.com/joffrey7486/PortFolio.github.io/blob/main/images/Social%20proof%20section.PNG?raw=true);}
+.three_column_preview_card{background-image: url(https://github.com/joffrey7486/PortFolio.github.io/blob/main/images/three%20column%20preview%20card.PNG?raw=true);}
+.single_price_grid{background-image: url(https://github.com/joffrey7486/PortFolio.github.io/blob/main/images/Single%20price%20grid.PNG?raw=true);}
+
+
+.footer{
+    background: lightblue;
+    width: auto;
+    height: 10%;
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    flex-direction: column;
+    padding-left: 2rem;
+}
+.footer a{
+    text-decoration: none;
+}
