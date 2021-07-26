@@ -77,3 +77,14 @@ h2{
 .footer a{
     text-decoration: none;
 }
+
+@media (max-width: 620px) {
+    .content{
+        height: 115px;
+        width: 300px;
+    }
+    .content p{
+        bottom: -8rem;
+        font-size: 0.8rem;
+    }
+}
