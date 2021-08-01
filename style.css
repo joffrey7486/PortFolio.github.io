@@ -62,12 +62,12 @@ h2{
 .three_column_preview_card{background-image: url(https://github.com/joffrey7486/PortFolio.github.io/blob/main/images/three%20column%20preview%20card.PNG?raw=true);}
 .single_price_grid{background-image: url(https://github.com/joffrey7486/PortFolio.github.io/blob/main/images/Single%20price%20grid.PNG?raw=true);}
 .article_preview_component{background-image: url(https://github.com/joffrey7486/PortFolio.github.io/blob/main/images/article-preview-component-FEM.PNG?raw=true)}
-
+.base_apparel_coming_soon_page{background-image: url(https://github.com/joffrey7486/PortFolio.github.io/blob/main/images/Base-Apparel-coming-soon-page.PNG?raw=true);}
 
 .footer{
     background: lightblue;
     width: auto;
-    height: 10%;
+    height: auto;
     display: flex;
     justify-content: center;
     align-items: flex-start;
